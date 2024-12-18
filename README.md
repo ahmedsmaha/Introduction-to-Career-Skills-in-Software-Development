@@ -8,7 +8,7 @@
 
 ---
 
-## ![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQGlfXoZwBO0rw/feedshare-shrink_1280/feedshare-shrink_1280/0/1728995028724?e=1732752000&v=beta&t=uzm0vYEL_dGzsCbs3eKO7n26y-lV-TnWKm7_K1jj6O0 "LinkedIn Learning Certificate of Completion")
+![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQGlfXoZwBO0rw/feedshare-shrink_1280/feedshare-shrink_1280/0/1728995028724?e=1737590400&v=beta&t=enoghXH6Ziro2UjtuEcMrWxs2Xf2g75HhBjqc6TywA8 "LinkedIn Learning Certificate of Completion")
 
 [Course Link](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey)
 
